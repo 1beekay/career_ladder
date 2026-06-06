@@ -14,9 +14,9 @@ Without a written ladder, careers are negotiated instead of earned. The loudest 
 
 | File | Contents |
 |---|---|
-| [ic-track.md](ic-track.md) | Individual contributor levels, Engineer I through Principal |
-| [management-track.md](management-track.md) | Manager levels, EM through VP |
-| [using-this-ladder.md](using-this-ladder.md) | Calibration, promotion process, and the failure modes to avoid |
+| [ic_track.md](ic_track.md) | Individual contributor levels, Engineer I through Principal |
+| [management_track.md](management_track.md) | Manager levels, EM through VP |
+| [using_this_ladder.md](using_this_ladder.md) | Calibration, promotion process, and the failure modes to avoid |
 
 ## Design principles
 
