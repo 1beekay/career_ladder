@@ -30,4 +30,4 @@ Without a written ladder, careers are negotiated instead of earned. The loudest 
 
 ## License
 
-MIT. Use it, fork it, ship it to your org.
+MIT. Use it, fork it, ship it to your org. By [Robert Ball-Konieczny](https://onebk.io).
