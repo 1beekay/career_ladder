@@ -11,7 +11,7 @@ A note on time: there are no minimum years here. I have seen people reach Senior
 **In one sentence:** delivers well defined tasks with guidance, and is learning the team's systems and standards.
 
 - **Scope:** individual tasks, scoped and reviewed by others
-- **Execution:** writes working, tested code; asks for help before getting stuck for days
+- **Execution:** writes working, tested code; uses AI tools as a matter of course and can tell when the output is wrong before it ships; asks for help before getting stuck for days
 - **Influence:** participates in code review and team discussion; learning to give useful feedback
 - **Operations:** shadows on call; knows how to find runbooks and escalate
 
@@ -30,7 +30,7 @@ A note on time: there are no minimum years here. I have seen people reach Senior
 
 - **Scope:** a system or service area, including its roadmap of technical work
 - **Execution:** designs before building; their designs survive contact with production; knows when not to build
-- **Influence:** the person others come to with hard questions in their area; raises the team's bar through review and example
+- **Influence:** the person others come to with hard questions in their area; raises the team's bar, including how the team uses AI, through review and example
 - **Operations:** leads incident response in their area; writes the postmortems others learn from
 
 This is a terminal level. A career spent operating well at Senior is a successful career, full stop.
@@ -50,7 +50,7 @@ This is a terminal level. A career spent operating well at Senior is a successfu
 
 - **Scope:** a domain (e.g. all of platform, all of data); horizon measured in years
 - **Execution:** the architecture in their domain is intentional rather than accidental, and they can explain why to an executive or a new hire
-- **Influence:** shapes engineering wide standards; develops Staff engineers deliberately
+- **Influence:** shapes engineering wide standards, including how the domain adopts AI; develops Staff engineers deliberately
 - **Operations:** accountable for reliability outcomes in the domain, not just response quality
 
 ## E6: Principal Engineer

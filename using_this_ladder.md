@@ -29,6 +29,12 @@ Two rules that prevent most promotion drama:
 - **No surprises in either direction.** If someone believes they are ready and their manager disagrees, that conversation happens early and explicitly, with the gaps named in writing.
 - **The committee can say not yet, and that has to be survivable.** If a declined promotion is treated as a catastrophe, managers will stop putting honest cases forward and start gaming the process.
 
+## AI and the ladder
+
+AI proficiency is not a new dimension and it is not a level. Using AI is table stakes now, the way version control and tests are, so it lives in the execution baseline at E1, not in a promotion packet. What changes with level is not whether you use AI but what you do with it: at E1 it is leverage on your own work, at Staff it is a pattern others copy, at Principal and across management it is an operating model you build for the org.
+
+Describe the behavior, never the tool. The tools will change; "can tell when the output is wrong" will not. And do not turn it into a metric to chase, for the same reason you do not build a leaderboard: the point is how people work, not a number they hit.
+
 ## Failure modes
 
 **Level inflation.** The most common death. One generous calibration cycle becomes the new baseline, and three years later half the org is Staff. The defense is boring: hold the evidence bar in calibration, every cycle, even when it is uncomfortable.
